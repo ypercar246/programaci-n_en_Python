@@ -1,2 +1,2 @@
-# programaci-n_en_Python
+# Programación en Python
 Colección de Notebooks de Jupiter para practicar la programación en Python
