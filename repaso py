@@ -1,0 +1,8 @@
+segundos = int(imput("dime un número total de segundos"))
+
+    horas = segundos //3600
+    minutos = (segundos % 3600) // 60
+    segundos_restantes = segundos % 60
+     horas, minutos, segundos_restantes
+horas, minutos, segundos_restantes
+print("(segundos)segundos equivalen a (horas),(minutos) y (segundos_restantes) segundos.")
